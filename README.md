@@ -1,2 +1,3 @@
-# jogo-batalha-cartas-super-trunfo-c
-Batalha de Cartas no Super Trunfo - Faculdade
+#Super Trunfo - Batalha de Cartas (C)
+
+Programa em C que simula a batalha entre duas cartas no estilo Super Trunfo.
